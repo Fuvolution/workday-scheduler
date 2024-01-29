@@ -12,6 +12,14 @@ textarea {
   padding: 10px;
 }
 
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
 .description {
   white-space: pre-wrap;
 }
